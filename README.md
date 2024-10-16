@@ -5,10 +5,8 @@ A budgeting dashboard built for mobile with flutter for the front end and Python
 ## Tech Stack
 
 - Flutter
-- Python
-- Flask
-- Plaid API
-
+- Dart
+  
 ## Key Features
 
 - Suggests and tracks the daily budget of the user based on budgeting goals
