@@ -8,7 +8,7 @@ A budgeting dashboard built for mobile with flutter for the front end and Python
 
 - Flutter
 - Python
-- Django
+- Flask
 
 ## Key Features
 
