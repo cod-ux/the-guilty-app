@@ -1,4 +1,4 @@
-# Guilty - A minimalist's budget app
+# Guilty - A Minimalist's Budgeting App
 
 _(Navigate to the flutterflow branch instead of the main branch to view the code)_
 
