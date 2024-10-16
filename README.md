@@ -9,6 +9,7 @@ A budgeting dashboard built for mobile with flutter for the front end and Python
 - Flutter
 - Python
 - Flask
+- Plaid API
 
 ## Key Features
 
